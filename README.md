@@ -1,4 +1,4 @@
-# Learning-Cpp
+# Learning C++
 In this project I will make some little programs to learn and improve my knowledges about C++.
 
 ## To run it locally
