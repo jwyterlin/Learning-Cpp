@@ -12,7 +12,7 @@ $ g++ <filename>.cpp -o <filename>
 $ ./<filename>
 ```
 
-## Examples:
+## Examples
 
 Temperature converter:
 
