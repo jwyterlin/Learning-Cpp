@@ -14,6 +14,6 @@ $ ./<filename>
 
 ## Examples
 
-Temperature converter:
+- Temperature converter:
 
 A software that converts fahrenheit to celsius.
